@@ -1,6 +1,4 @@
-# Data-Science-Projects
-In this repository I present some of my Data Science Projects and Notebooks.
-
+# Data Science Projects
 The plan is to add here some interesting stuff I have been working on and some notebooks I used or presented at Kaggle.
 
 
